@@ -1,3 +1,4 @@
+require('react-hook-form');
 /**
  * @format
  */
